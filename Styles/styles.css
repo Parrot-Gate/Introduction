@@ -1,0 +1,24 @@
+.pgate{
+    height: 50px;
+    width: 50px;
+}
+
+#left {
+	float: left;
+	width: 51%;
+	color: white;
+	background: red;;
+	}
+
+	#right {
+	float: right;
+	width: 48%;;
+	color: white;
+	background-color: green; 
+	}
+
+	#footer {
+	clear: both;
+	text-align: centre;
+	border-top: 3px double gray;
+    }
